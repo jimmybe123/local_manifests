@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="aim-10" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
   <project name="xSil3nt/android_device_samsung_noblelte-common" path="device/samsung/noblelte-common" remote="github" revision="aim-10" />
   <project name="xSil3nt/android_device_samsung_nobleltezt" path="device/samsung/nobleltezt" remote="github" revision="aim-10" />
   <project name="universal7420/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-17.1" />
